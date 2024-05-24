@@ -77,6 +77,14 @@
 
 #### • Sort your array so it’s stored in alphabetical order. Print the array to show that its order has been changed.
 
+#### Q.19) Dinner Guests: Working with one of the programs from Exercises 14 through 18, print a message indicating the number of people you are inviting to dinner.
+
+#### Q.20) Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. 
+
+#### Q.21) Write a program that creates a list containing these items.
+
+They think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
+
 #### • Sort to change your array so it’s stored in reverse alphabetical order. Print the list to show that its order has changed.
 
 
